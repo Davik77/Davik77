@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python scripting or building virtual reality games in C#
 - 🌱 I’m currently learning Python, Java, C#
 - 💞️ I’m looking to collaborate on interesting projects. 
-- 📫 How to reach me Twitter @DVKirichenko
+- 📫 How to reach me Twitter @DVKirichenko or davidkirichenko@outlook.com
 
 <!---
 Davik77/Davik77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
